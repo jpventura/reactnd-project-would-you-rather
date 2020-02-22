@@ -1,0 +1,42 @@
+{
+  "author": "JP Ventura",
+  "bugs": {
+    "url": "https://github.com/jpventura/would-you-rather/issues"
+  },
+  "browserslist": {
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "production":[
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ]
+  },
+  "description": "Would You Rather",
+  "dependencies": {
+    "@testing-library/jest-dom":"^4.2.4",
+    "@testing-library/react":"^9.3.2",
+    "@testing-library/user-event":"^7.1.2",
+    "react":"^16.12.0",
+    "react-dom":"^16.12.0",
+    "react-scripts":"3.4.0"
+  },
+  "homepage": "https://github.com/jpventura/would-you-rather#readme",
+  "keywords": [
+    "react",
+    "udacity"
+  ],
+  "license": "MIT",
+  "name":"would-you-rather",
+  "private":true,
+  "scripts":{
+    "build":"react-scripts build",
+    "eject":"react-scripts eject",
+    "start":"react-scripts start",
+    "test":"react-scripts test"
+  },
+  "version":"0.1.0"
+}
